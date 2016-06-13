@@ -16,11 +16,11 @@ Uses diamagnetically actuated microdrones to assemble the fabricated components,
 
 ChPU:
 - Distillation, chromatographic column separator modules
-- Repeating unit configuration (l1 cache -> sep./cat./merge/mix/xchange/l1,l2 cache)
+- ~~Repeating unit configuration (l1 cache -> sep./cat./merge/mix/xchange/l1,l2 cache)~~
 
 MPU:
 - Electroplater model
-- Electrojet emitters enlarged for wiring
+- Electrojet emitters enlarged to accomodate wiring
 - Material distribution in line with ChPU standards
 
 CAU:
