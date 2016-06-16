@@ -19,8 +19,8 @@ ChPU:
 - ~~Repeating unit configuration (l1 cache -> sep./cat./merge/mix/xchange/l1,l2 cache)~~
 
 MPU:
-- Electroplater model (WIP 6/14/16)
-- Electrojet emitters enlarged to accomodate wiring
+- ~~Electroplater model~~
+- Electrojet emitters enlarged to accomodate wiring (6/15/16 WIP)
 - Material distribution in line with ChPU standards
 
 CAU:
