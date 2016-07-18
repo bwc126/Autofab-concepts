@@ -21,7 +21,7 @@ ChPU:
 MPU:
 - ~~Electroplater model~~
 - Electrojet emitters enlarged to accomodate wiring (6/15/16 WIP)
-- Material distribution in line with ChPU standards
+- ~~Material distribution in line with ChPU standards~~
 
 CAU:
 - CAU II interior
