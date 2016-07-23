@@ -24,7 +24,7 @@ MPU:
 - ~~Material distribution in line with ChPU standards~~
 
 CAU:
-- CAU I/II interior (7/21 WIP)
+- ~~CAU I~~/II interior (7/21 WIP)
 - Align electronics with known constraints
 
 Assembly:
@@ -51,3 +51,4 @@ CAU:
 - Complete all basic necessary substrate paths
 
 Assembly:
+- Sufficient mechanical support for anticipated system density and conformation
