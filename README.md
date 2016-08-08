@@ -12,6 +12,9 @@ Uses a combination of micro-extrusion, electrojetting, and electroplating to fab
 ## Convergent Assembly (CAU)
 Uses diamagnetically actuated microdrones to assemble the fabricated components, along with pre-fabricated off-the-shelf components if necessary, into more complex finished products. Provides structure to the whole system and a clean, controlled environment.
 
+## Power and Control
+Provides appropriate power and signal channels for all manufacturing systems: ChPU, MPU, CAU. Provides an interface for loading digital manufacturing files.
+
 *Necessary for Next Stage: (Early Development, v0.2)*
 
 ChPU:
@@ -25,7 +28,7 @@ MPU:
 
 CAU:
 - ~~CAU I~~/II interior (7/21 WIP)
-- Align electronics with known constraints
+- Align electronics with known constraints (8/7/16 WIP)
 
 Assembly:
 - At least one complete assembly of each kind and scale up to CAU II
