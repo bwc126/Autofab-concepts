@@ -28,10 +28,10 @@ MPU:
 
 CAU:
 - ~~CAU I~~/II interior (7/21 WIP)
-- Align electronics with known constraints (8/7/16 WIP)
+- ~~Align electronics with known constraints (8/7/16 WIP)~~
 
 Assembly:
-- At least one complete assembly of each kind and scale up to CAU II
+- ~~At least one complete assembly of each kind and scale up to CAU II~~
 
 *Necessary for Mid-Development (v0.3)*
 
@@ -47,6 +47,7 @@ MPU:
 - Feasible and viable electroplater design
 - Wiring for all MPU components
 - Ensure electronics meet p/c req.s, known phys constraints
+- Microfluidic interconnects 
 
 CAU:
 - Design feasible diagmagnetic drones, substrate (I,II)
