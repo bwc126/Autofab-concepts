@@ -8,6 +8,8 @@ Key Goals:
 -Total self-replication except SMD's (for now).
 
 *Current Status: Early Development (v0.2)*
+## Rectilinear Fractal Layout
+Whole system and each of its sub-assemblies follow a pattern of rectangular prismatic fractals, where the largest face is the "extrusion" face to allow production of objects larger than self. The fractal design allows parallelization of processing and manufacturing tasks in a convergent fashion. Each assembly is composed of modules that can automatically be assembled within a shell by a small number of diamagnetic manipulators. The rectangular prism shells which form the main body of the system have built-in folds in two dimensions, allowing even larger steps between scales of the fractal. The entire system is enclosed in an outer shell which delimits a clean internal working environment and protects diamagnetic manipulators when they operate upon the external surfaces of the main body.
 
 ## Chemical Processing (ChPU)
 Uses modular microfluidic components to process chemicals from simple inputs.
@@ -44,7 +46,8 @@ CAU:
 - Complete all basic necessary substrate paths
 
 Assembly:
-- Sufficient mechanical support for anticipated system density and conformation
+- Sufficient mechanical support for anticipated system density and conformation (within main body)
+- Outer enclosure sketch
 
 *Necessary for Mid-Development (v0.4)*
 
@@ -67,8 +70,9 @@ CAU:
 - Electrical interlocks
 
 Assembly:
-- External enclosure
+- Outer enclosure feasible design, modularization
 - External dia-mag substrates
+- Intermediate supports
 
 Power and Control:
 - Power, control lines and SMD for all ChPU/MPU/CAU
