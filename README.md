@@ -26,7 +26,7 @@ Provides appropriate power and signal channels for all manufacturing systems: Ch
 *Necessary for Next Stage: (Early-Mid-Development, v0.3)*
 
 ChPU:
-- Reservoir Modules (I,II,III)
+- Reservoir Modules (~~I~~,II,III)
 - Intake and output interfaces (I)
 - Interconnects for ChPU-I
 - Ensure electronics meet power/control requirements, known physical constraints (physical dimensions, number of actuation electrodes, etc.)
