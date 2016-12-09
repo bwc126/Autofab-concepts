@@ -28,7 +28,7 @@ Provides appropriate power and signal channels for all manufacturing systems: Ch
 ChPU:
 - Reservoir Modules (~~I~~,II,III)
 - Intake and output interfaces (I)
-- Interconnects for ChPU-I
+- Interconnects for ChPU-I (WIP)
 - Ensure electronics meet power/control requirements, known physical constraints (physical dimensions, number of actuation electrodes, etc.)
 - Wiring for all ChPU components
 - Basic feasible chromatograph spectroscope, mass spectrometer designs
