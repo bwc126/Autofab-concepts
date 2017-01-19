@@ -1,5 +1,5 @@
 # Autofab-concepts
-Conceptual development and modeling of an automatic fabricator based on contemporary technology.
+Conceptual development and modeling of an Automatic Personal Fabricator (PF or Autofab) based on contemporary technology.
 
 Key Goals:
 
@@ -22,6 +22,9 @@ Uses diamagnetically actuated microdrones to assemble the fabricated components,
 
 ## Power and Control
 Provides appropriate power and signal channels for all manufacturing systems: ChPU, MPU, CAU. Provides an interface for loading digital manufacturing files.
+
+### Update: Hex Models
+Current addition of hex models is an attempt to approximate a voxel-based model. Given the closeness to tolerances of manufacturing techniques, this gives a better impression of where droplets of material should go. Likely prototyping to happen on inkjet hardware, using UV-PDMS. The present manufacutring and microfluidic design approaches should be validated before developing interconnects and medium-scale integration.
 
 *Necessary for Next Stage: (Early-Mid-Development, v0.3)*
 
